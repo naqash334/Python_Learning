@@ -20,4 +20,4 @@ for i in range(1,N):
 plt.plot(sx,sy, 'k.', markersize = 1)
 plt.title('Sierpinski triangle')
 plt.axis('off')
-plt.show
+plt.show()
